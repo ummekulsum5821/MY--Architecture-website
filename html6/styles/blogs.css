@@ -1,0 +1,13 @@
+nav li{
+    list font-style: none;
+    display: inline;
+  margin: 20px;
+
+}
+nav li a{
+    text-decoration: none;
+
+}
+p{
+    width: 500px;
+}
