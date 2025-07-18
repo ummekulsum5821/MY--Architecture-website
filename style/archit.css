@@ -1,0 +1,60 @@
+.navber {
+    display: flex
+    
+    
+}
+.navber{
+    justify-content: space-between;
+    margin: 20px 100px;
+}
+.nav-link{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    color: #424242;
+}
+.nav-section{
+    justify-content: center;
+    justify-items: center;
+    margin-top: 50px;
+    
+
+  
+}
+.explore-more{
+    background-color:#FF900E;
+    height: 40px;
+    width: 100;
+}
+
+
+
+
+
+   
+
+.home{
+    background-color: antiquewhite;
+   
+}
+.image{
+    width: 80%;
+    height: 450px;
+    justify-items: center;
+    margin-bottom: 80px;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+.archit-image{
+    grid-column: ;
+}
+
+
+
+        
+
+
+   
+
+
+
