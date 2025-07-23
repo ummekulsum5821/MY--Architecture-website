@@ -24,3 +24,23 @@ body{
  .navber-section li:nth-child(3) {
     color:rgb(137, 135, 161)  ;
 }
+.banner{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    
+    
+}
+.banner-section{
+    font-weight: 700;
+    font-size: 50px;
+}
+#banner-title{
+    color: rgb(233, 90, 8);
+}
+.banner p {
+   margin-top: -30px;
+
+}
