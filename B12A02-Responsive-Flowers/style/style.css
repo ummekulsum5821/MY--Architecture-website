@@ -1,0 +1,26 @@
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+
+
+.navber{
+    display: flex;
+    justify-content: space-between;
+   
+    align-items: center;
+  
+
+}
+.navber-section{
+    display: flex;
+   list-style: none;
+   gap: 48px;
+  
+}
+.navber-section li:nth-child(2),
+ .navber-section li:nth-child(3) {
+    color:rgb(137, 135, 161)  ;
+}
